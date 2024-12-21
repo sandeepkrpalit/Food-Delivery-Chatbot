@@ -1,5 +1,8 @@
 # Food-Delivery-Chatbot-using-Chainlit
 
+![Food Delivery Bot](images/OnlineOrderDelivery.png)
+
+
 ## How to run?
 
 1. Create a virtual environment

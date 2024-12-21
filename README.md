@@ -5,14 +5,14 @@
 1. Create a virtual environment
 
 ```bash
-conda create -n llmapp python=3.10 -y
+conda create -n chatbotChainlit python=3.10 -y
 
 ```
 
 2. Activate the environment
 
 ```bash
-conda activate llmapp
+conda activate chatbotChainlit
 
 ```
 
